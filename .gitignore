@@ -1,3 +1,5 @@
 .DS_Store
 .idea/
 *.iml
+support-tooling/id_rsa.pub
+*.iso
